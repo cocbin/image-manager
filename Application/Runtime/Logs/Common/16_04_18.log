@@ -1,0 +1,48 @@
+[ 2016-04-18T19:45:27+08:00 ] ::1 /indexdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+ERR: 无法加载模块:Indexdd
+
+[ 2016-04-18T19:52:10+08:00 ] ::1 /ss
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+ERR: 无法加载模块:Ss
+
+[ 2016-04-18T19:52:30+08:00 ] ::1 /a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+ERR: 无法加载模块:A
+
+[ 2016-04-18T19:59:02+08:00 ] ::1 /a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+ERR: 无法加载模块:A
+
+[ 2016-04-18T19:59:13+08:00 ] ::1 /index/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-18T19:59:18+08:00 ] ::1 /index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+ERR: 无法加载模块:Index
+
+[ 2016-04-18T20:00:08+08:00 ] ::1 /binbin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+ERR: 无法加载模块:Binbin
+
+[ 2016-04-18T20:00:12+08:00 ] ::1 /binbin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+ERR: 无法加载模块:Binbin
+
